@@ -1,0 +1,3266 @@
+[lineNum=204 INFO][2017-11-29 10:02:42]get apk: f4df7286404e46655a03186feaa6832d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:03:42]analyze finish f4df7286404e46655a03186feaa6832d.apk[cost 60]
+[lineNum=204 INFO][2017-11-29 10:03:42]get apk: a5533f3be336ed3ea7cc4d11e08e1d08.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:04:24]analyze finish a5533f3be336ed3ea7cc4d11e08e1d08.apk[cost 41]
+[lineNum=204 INFO][2017-11-29 10:04:24]get apk: c52c9ed83beeb54f3d7cb57341ac4c48.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:05:25]analyze finish c52c9ed83beeb54f3d7cb57341ac4c48.apk[cost 61]
+[lineNum=204 INFO][2017-11-29 10:05:27]get apk: 4d5fd317af33511ae7627332521a8cd5.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:06:16]analyze finish 4d5fd317af33511ae7627332521a8cd5.apk[cost 50]
+[lineNum=204 INFO][2017-11-29 10:06:16]get apk: 75fd17ff3277bf5ae01442a4de088b72.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:06:58]analyze finish 75fd17ff3277bf5ae01442a4de088b72.apk[cost 42]
+[lineNum=204 INFO][2017-11-29 10:06:59]get apk: 87d0c0b14eeec058976248d3c17b8870.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:07:45]analyze finish 87d0c0b14eeec058976248d3c17b8870.apk[cost 46]
+[lineNum=204 INFO][2017-11-29 10:07:45]get apk: 6b91405cefc02a120e939734343fb359.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:08:40]analyze finish 6b91405cefc02a120e939734343fb359.apk[cost 54]
+[lineNum=204 INFO][2017-11-29 10:08:41]get apk: 30201438104faa1dfd24f60edb689b72.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:09:34]analyze finish 30201438104faa1dfd24f60edb689b72.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 10:09:34]get apk: 8f0e89945d83623322afdd324c9812b7.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:10:07]analyze finish 8f0e89945d83623322afdd324c9812b7.apk[cost 33]
+[lineNum=204 INFO][2017-11-29 10:10:08]get apk: 521f8af084bb5f847460882b247f998d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:11:01]analyze finish 521f8af084bb5f847460882b247f998d.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 10:11:01]get apk: cb20e1219fccaf9c57400124d54221bf.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:11:59]analyze finish cb20e1219fccaf9c57400124d54221bf.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 10:11:59]get apk: 85a9bc5491ef22c943e60ed08b860516.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:12:51]analyze finish 85a9bc5491ef22c943e60ed08b860516.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 10:12:51]get apk: b4b9eeadaf334b2a532f86ebac5a9d8c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:13:39]analyze finish b4b9eeadaf334b2a532f86ebac5a9d8c.apk[cost 48]
+[lineNum=204 INFO][2017-11-29 10:13:40]get apk: 9f86b4d58ee29933d05ec8763a1a82ca.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:14:33]analyze finish 9f86b4d58ee29933d05ec8763a1a82ca.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 10:14:34]get apk: f2c6658f393373af51142530137a7606.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:17:35]analyze finish f2c6658f393373af51142530137a7606.apk[cost 181]
+[lineNum=204 INFO][2017-11-29 10:17:35]get apk: b9a2092f9be56dd085de039daa8ecd6f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:18:21]analyze finish b9a2092f9be56dd085de039daa8ecd6f.apk[cost 46]
+[lineNum=204 INFO][2017-11-29 10:18:22]get apk: 3f12fcd6aede6603cfbb49031709a9a2.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:19:56]analyze finish 3f12fcd6aede6603cfbb49031709a9a2.apk[cost 94]
+[lineNum=204 INFO][2017-11-29 10:19:56]get apk: 7f9591ab916e81e545f3b3e67bc3db99.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:20:26]analyze finish 7f9591ab916e81e545f3b3e67bc3db99.apk[cost 30]
+[lineNum=204 INFO][2017-11-29 10:20:27]get apk: f5a9476b6f2c7627fb8290605062656d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:21:13]analyze finish f5a9476b6f2c7627fb8290605062656d.apk[cost 46]
+[lineNum=204 INFO][2017-11-29 10:21:13]get apk: 2cdd71d9f8b3cd01e45176dc9668ce84.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:22:10]analyze finish 2cdd71d9f8b3cd01e45176dc9668ce84.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 10:22:10]get apk: 7e563635a32046e29374bdf97ed02bd8.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:23:18]analyze finish 7e563635a32046e29374bdf97ed02bd8.apk[cost 67]
+[lineNum=204 INFO][2017-11-29 10:23:19]get apk: 5d7d923be5f412a4f5a03bdb335926cb.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:24:17]analyze finish 5d7d923be5f412a4f5a03bdb335926cb.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 10:24:18]get apk: d1eaece94edca30ec60941ffe95e2d4f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:25:17]analyze finish d1eaece94edca30ec60941ffe95e2d4f.apk[cost 59]
+[lineNum=204 INFO][2017-11-29 10:25:17]get apk: e100bba1e1ffc53929265063465f3c41.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:25:56]analyze finish e100bba1e1ffc53929265063465f3c41.apk[cost 38]
+[lineNum=204 INFO][2017-11-29 10:25:56]get apk: dea647123a3e3e97421bb0340da8a5f1.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:26:51]analyze finish dea647123a3e3e97421bb0340da8a5f1.apk[cost 54]
+[lineNum=204 INFO][2017-11-29 10:26:51]get apk: b2ea5af2efd9bf189086f8c3f4aa6e53.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:27:40]analyze finish b2ea5af2efd9bf189086f8c3f4aa6e53.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 10:27:40]get apk: 642405b0f4989173697703289985e3cb.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:28:24]analyze finish 642405b0f4989173697703289985e3cb.apk[cost 44]
+[lineNum=204 INFO][2017-11-29 10:28:24]get apk: 4050fc041b8b78775be38f5660c0140e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:29:14]analyze finish 4050fc041b8b78775be38f5660c0140e.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 10:29:14]get apk: 74a9ccda203f124dd2a473b9f6080631.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:30:02]analyze finish 74a9ccda203f124dd2a473b9f6080631.apk[cost 47]
+[lineNum=204 INFO][2017-11-29 10:30:02]get apk: 5cd6f394f9b4bed66772dad3180cc715.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:31:05]analyze finish 5cd6f394f9b4bed66772dad3180cc715.apk[cost 62]
+[lineNum=204 INFO][2017-11-29 10:31:10]get apk: 95f8617ada77c1a6d2e463917af3c9c2.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:32:02]analyze finish 95f8617ada77c1a6d2e463917af3c9c2.apk[cost 56]
+[lineNum=204 INFO][2017-11-29 10:32:02]get apk: a5ec9f02ea17407c3efb00e4318b89dd.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:32:56]analyze finish a5ec9f02ea17407c3efb00e4318b89dd.apk[cost 54]
+[lineNum=204 INFO][2017-11-29 10:32:58]get apk: 900a7c23dff5e3857518e480c6655cc3.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:34:26]analyze finish 900a7c23dff5e3857518e480c6655cc3.apk[cost 88]
+[lineNum=204 INFO][2017-11-29 10:34:26]get apk: 625c1c2e5c10af588c249ab4876d1626.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:35:19]analyze finish 625c1c2e5c10af588c249ab4876d1626.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 10:35:19]get apk: c56c61d6a9f264f8d3ace15094ec9e79.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:36:01]analyze finish c56c61d6a9f264f8d3ace15094ec9e79.apk[cost 41]
+[lineNum=204 INFO][2017-11-29 10:36:02]get apk: c54d7039b8e9672bc6c2acf0d5fa430f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:37:01]analyze finish c54d7039b8e9672bc6c2acf0d5fa430f.apk[cost 59]
+[lineNum=204 INFO][2017-11-29 10:37:01]get apk: 87e9b54ae8e8a6282fb2771efd206fff.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:37:56]analyze finish 87e9b54ae8e8a6282fb2771efd206fff.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 10:37:57]get apk: 5efb1cec8e22eaf0ed00a941b8e95d97.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:38:46]analyze finish 5efb1cec8e22eaf0ed00a941b8e95d97.apk[cost 48]
+[lineNum=204 INFO][2017-11-29 10:38:46]get apk: 46e5be4e49966167253d7f3d49fb57aa.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:39:31]analyze finish 46e5be4e49966167253d7f3d49fb57aa.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 10:39:32]get apk: 751330fb33deb1695638eae586254317.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:41:10]analyze finish 751330fb33deb1695638eae586254317.apk[cost 98]
+[lineNum=204 INFO][2017-11-29 10:41:10]get apk: 8629b809b3473c34c55d57b72fc22670.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:41:55]analyze finish 8629b809b3473c34c55d57b72fc22670.apk[cost 44]
+[lineNum=204 INFO][2017-11-29 10:41:56]get apk: 2108e68737a8a8ac2f092e91b11bce13.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:42:54]analyze finish 2108e68737a8a8ac2f092e91b11bce13.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 10:42:54]get apk: 5795f424464f1035149097204cf54261.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:44:06]analyze finish 5795f424464f1035149097204cf54261.apk[cost 71]
+[lineNum=204 INFO][2017-11-29 10:44:06]get apk: 86afeab3ece157481c732348ba339723.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:44:53]analyze finish 86afeab3ece157481c732348ba339723.apk[cost 46]
+[lineNum=204 INFO][2017-11-29 10:44:53]get apk: 84b2525fd2a1a28b111ec03a8bdcc2a9.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:46:00]analyze finish 84b2525fd2a1a28b111ec03a8bdcc2a9.apk[cost 66]
+[lineNum=204 INFO][2017-11-29 10:46:00]get apk: 89ff2f026789670badc441e662fa22c0.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:46:53]analyze finish 89ff2f026789670badc441e662fa22c0.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 10:46:53]get apk: fe3ce5f366a5a5090348c52126b801aa.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:47:54]analyze finish fe3ce5f366a5a5090348c52126b801aa.apk[cost 61]
+[lineNum=204 INFO][2017-11-29 10:47:56]get apk: 27c4803cdfe2b8efc31b6cf402682235.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:48:58]analyze finish 27c4803cdfe2b8efc31b6cf402682235.apk[cost 62]
+[lineNum=204 INFO][2017-11-29 10:48:59]get apk: ea7fce814388819b036152457345f36c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:50:24]analyze finish ea7fce814388819b036152457345f36c.apk[cost 85]
+[lineNum=204 INFO][2017-11-29 10:50:24]get apk: cb488a42b1acc8744b57c35b5b4cfe4e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:51:14]analyze finish cb488a42b1acc8744b57c35b5b4cfe4e.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 10:51:14]get apk: 85de9fb8cac57a0e01d2b72c33aa6798.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:52:27]analyze finish 85de9fb8cac57a0e01d2b72c33aa6798.apk[cost 73]
+[lineNum=204 INFO][2017-11-29 10:52:27]get apk: 41e209581820ad686fd8fe9dcca5a664.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:53:13]analyze finish 41e209581820ad686fd8fe9dcca5a664.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 10:53:13]get apk: 64873ac6d9ee847b092c7b7843dbb844.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:54:15]analyze finish 64873ac6d9ee847b092c7b7843dbb844.apk[cost 61]
+[lineNum=204 INFO][2017-11-29 10:54:15]get apk: 57341e91519f02a1e5b2cd1cfc6f4a70.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:55:25]analyze finish 57341e91519f02a1e5b2cd1cfc6f4a70.apk[cost 69]
+[lineNum=204 INFO][2017-11-29 10:55:25]get apk: ef5fa8bd6c0acdaf2e8f949e23167475.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:56:41]analyze finish ef5fa8bd6c0acdaf2e8f949e23167475.apk[cost 75]
+[lineNum=204 INFO][2017-11-29 10:56:41]get apk: 7288f9d0eba52e67c393fc51059157e7.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:57:30]analyze finish 7288f9d0eba52e67c393fc51059157e7.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 10:57:30]get apk: 563072a445f04b27fd53bed624008ea9.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:58:26]analyze finish 563072a445f04b27fd53bed624008ea9.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 10:58:26]get apk: 1c36b15e7e7454c4d8a7a8bebb157f8f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 10:59:16]analyze finish 1c36b15e7e7454c4d8a7a8bebb157f8f.apk[cost 50]
+[lineNum=204 INFO][2017-11-29 10:59:16]get apk: 7dbbeadf817f879a4c20c55e07247b28.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:00:06]analyze finish 7dbbeadf817f879a4c20c55e07247b28.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 11:00:06]get apk: 61d6284527f0c73458435b790da88f48.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:01:15]analyze finish 61d6284527f0c73458435b790da88f48.apk[cost 69]
+[lineNum=204 INFO][2017-11-29 11:01:15]get apk: df1b9511ca3d21722dfe06a36756ac0d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:02:08]analyze finish df1b9511ca3d21722dfe06a36756ac0d.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 11:02:08]get apk: 485dcbf3a991fa79f38befc11317eb05.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:02:50]analyze finish 485dcbf3a991fa79f38befc11317eb05.apk[cost 41]
+[lineNum=204 INFO][2017-11-29 11:02:50]get apk: bec2e72b28a836cb8cfbd6ebe2e394be.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:03:43]analyze finish bec2e72b28a836cb8cfbd6ebe2e394be.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 11:03:44]get apk: aa6070429a947a6811da6d09aaaf6429.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:04:57]analyze finish aa6070429a947a6811da6d09aaaf6429.apk[cost 73]
+[lineNum=204 INFO][2017-11-29 11:04:59]get apk: 23dbb0bd1fdbba8f44e7025160820a00.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:07:51]analyze finish 23dbb0bd1fdbba8f44e7025160820a00.apk[cost 173]
+[lineNum=204 INFO][2017-11-29 11:07:52]get apk: 55ca50d3c5f8728a5a94dc83b03c913c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:09:35]analyze finish 55ca50d3c5f8728a5a94dc83b03c913c.apk[cost 103]
+[lineNum=204 INFO][2017-11-29 11:09:35]get apk: 1910b920382b4a301e6027a4b5c9f8eb.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:10:21]analyze finish 1910b920382b4a301e6027a4b5c9f8eb.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 11:10:21]get apk: d07920d5b267d2c8c137381e9dbc6f41.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:11:19]analyze finish d07920d5b267d2c8c137381e9dbc6f41.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 11:11:19]get apk: 4347a6c82f87998bac890b833c0c6f62.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:12:35]analyze finish 4347a6c82f87998bac890b833c0c6f62.apk[cost 75]
+[lineNum=204 INFO][2017-11-29 11:12:36]get apk: f85fff1706850ad929b3a6457c275203.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:13:43]analyze finish f85fff1706850ad929b3a6457c275203.apk[cost 68]
+[lineNum=204 INFO][2017-11-29 11:13:43]get apk: 921336a2dfc9c413a511d17ce1e20ae1.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:14:35]analyze finish 921336a2dfc9c413a511d17ce1e20ae1.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 11:14:35]get apk: 44ec22cbe6c7aff7d305d797bc2f2b7a.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:15:36]analyze finish 44ec22cbe6c7aff7d305d797bc2f2b7a.apk[cost 60]
+[lineNum=204 INFO][2017-11-29 11:15:36]get apk: ad5a58726f1d3f2a801010ea0ab48ac1.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:16:19]analyze finish ad5a58726f1d3f2a801010ea0ab48ac1.apk[cost 43]
+[lineNum=204 INFO][2017-11-29 11:16:20]get apk: 667150b55bfe972c70c5c8955b248b08.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:17:17]analyze finish 667150b55bfe972c70c5c8955b248b08.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 11:17:17]get apk: 5912a6e7a3b9d89606c22cad3a8efcb9.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:18:06]analyze finish 5912a6e7a3b9d89606c22cad3a8efcb9.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 11:18:06]get apk: 1cfbb71457441df66ca2cc44fe6e3f8b.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:18:52]analyze finish 1cfbb71457441df66ca2cc44fe6e3f8b.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 11:18:52]get apk: a53e3ed1b22cccbf80546ed8e15e98ec.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:19:36]analyze finish a53e3ed1b22cccbf80546ed8e15e98ec.apk[cost 43]
+[lineNum=204 INFO][2017-11-29 11:19:36]get apk: 77140a77f191f876cc0872cb11183af6.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:20:28]analyze finish 77140a77f191f876cc0872cb11183af6.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 11:20:29]get apk: 8e8934856acfe2eec25baf889983f861.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:21:42]analyze finish 8e8934856acfe2eec25baf889983f861.apk[cost 74]
+[lineNum=204 INFO][2017-11-29 11:21:43]get apk: ade8da69aa5702015b90c3b75444d66a.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:22:51]analyze finish ade8da69aa5702015b90c3b75444d66a.apk[cost 68]
+[lineNum=204 INFO][2017-11-29 11:22:51]get apk: c67f516cbc592e5f628edef2aa45b1f8.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:23:51]analyze finish c67f516cbc592e5f628edef2aa45b1f8.apk[cost 59]
+[lineNum=204 INFO][2017-11-29 11:23:51]get apk: d7d9ea111fb05686df5e367a5d13ec0f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:24:42]analyze finish d7d9ea111fb05686df5e367a5d13ec0f.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 11:24:43]get apk: 4bfd3f58919c0a8bf021186a71fed7b3.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:25:57]analyze finish 4bfd3f58919c0a8bf021186a71fed7b3.apk[cost 75]
+[lineNum=204 INFO][2017-11-29 11:25:58]get apk: eda161dd4782bb0d043fb1681cda05dc.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:26:53]analyze finish eda161dd4782bb0d043fb1681cda05dc.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 11:26:53]get apk: c8938cc583dc5846bfda85e5e3129d17.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:27:46]analyze finish c8938cc583dc5846bfda85e5e3129d17.apk[cost 52]
+[lineNum=204 INFO][2017-11-29 11:27:46]get apk: b7078a5e9ef16db48956743a5d2b5502.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:28:39]analyze finish b7078a5e9ef16db48956743a5d2b5502.apk[cost 52]
+[lineNum=204 INFO][2017-11-29 11:28:40]get apk: 06a0ce41f2aca7ae40a97a676fbf6ae9.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:30:01]analyze finish 06a0ce41f2aca7ae40a97a676fbf6ae9.apk[cost 81]
+[lineNum=204 INFO][2017-11-29 11:30:01]get apk: 7f030c62d1a21633aa6b2f915702142b.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:30:46]analyze finish 7f030c62d1a21633aa6b2f915702142b.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 11:30:46]get apk: df24f521e87280c8f0721e30be767869.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:31:39]analyze finish df24f521e87280c8f0721e30be767869.apk[cost 52]
+[lineNum=204 INFO][2017-11-29 11:31:39]get apk: ad1e89be5ed12dbef7f749deda298328.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:32:53]analyze finish ad1e89be5ed12dbef7f749deda298328.apk[cost 74]
+[lineNum=204 INFO][2017-11-29 11:32:56]get apk: 9ce1c12a4ccc4fdbe626453b3f3923b4.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:34:21]analyze finish 9ce1c12a4ccc4fdbe626453b3f3923b4.apk[cost 87]
+[lineNum=204 INFO][2017-11-29 11:34:21]get apk: eb4e386310fd3437382c1c9c8a7900c7.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:35:18]analyze finish eb4e386310fd3437382c1c9c8a7900c7.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 11:35:19]get apk: 70bcf16d0e6b1d51bb3456a5bf2a69f8.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:36:29]analyze finish 70bcf16d0e6b1d51bb3456a5bf2a69f8.apk[cost 70]
+[lineNum=204 INFO][2017-11-29 11:36:29]get apk: 75f29a9557f69abd9474bb24aa9e2275.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:37:08]analyze finish 75f29a9557f69abd9474bb24aa9e2275.apk[cost 39]
+[lineNum=204 INFO][2017-11-29 11:37:09]get apk: 27a395e1ee3da94a41d0f3f8c72e6ca3.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:38:31]analyze finish 27a395e1ee3da94a41d0f3f8c72e6ca3.apk[cost 82]
+[lineNum=204 INFO][2017-11-29 11:38:31]get apk: 14f8e9fd96e13eab3f2624c4758fbf64.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:39:14]analyze finish 14f8e9fd96e13eab3f2624c4758fbf64.apk[cost 42]
+[lineNum=204 INFO][2017-11-29 11:39:15]get apk: 8b5bee1bf93c007bcdacf14910ede51a.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:40:15]analyze finish 8b5bee1bf93c007bcdacf14910ede51a.apk[cost 60]
+[lineNum=204 INFO][2017-11-29 11:40:15]get apk: ca5e0aae3cac2feeb5f3dcefed532ef0.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:41:18]analyze finish ca5e0aae3cac2feeb5f3dcefed532ef0.apk[cost 63]
+[lineNum=204 INFO][2017-11-29 11:41:18]get apk: e83b53460df8c16cd06b4b397850de83.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:42:14]analyze finish e83b53460df8c16cd06b4b397850de83.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 11:42:15]get apk: 5c98c4584b0f8ad9d3168ef0dd7ba45d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:43:12]analyze finish 5c98c4584b0f8ad9d3168ef0dd7ba45d.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 11:43:12]get apk: c635309f7364c809bf3793c25907438c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:44:04]analyze finish c635309f7364c809bf3793c25907438c.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 11:44:04]get apk: a6da05fdda71307d14fb6dc4a14cd5b8.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:44:54]analyze finish a6da05fdda71307d14fb6dc4a14cd5b8.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 11:44:54]get apk: 765f80782c88495f16cfd082ebfa3af2.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:45:44]analyze finish 765f80782c88495f16cfd082ebfa3af2.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 11:45:44]get apk: 659b1550068f7ef1b44afea244e48537.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:46:40]analyze finish 659b1550068f7ef1b44afea244e48537.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 11:46:40]get apk: 3a033944c88436eecdd978e0f28ef133.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:47:22]analyze finish 3a033944c88436eecdd978e0f28ef133.apk[cost 42]
+[lineNum=204 INFO][2017-11-29 11:47:22]get apk: 36025cb36c7a2f1bff54aa1c18c009fa.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:48:15]analyze finish 36025cb36c7a2f1bff54aa1c18c009fa.apk[cost 52]
+[lineNum=204 INFO][2017-11-29 11:48:15]get apk: 8d77e37a2423ce697e3406a420558c2b.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:48:56]analyze finish 8d77e37a2423ce697e3406a420558c2b.apk[cost 41]
+[lineNum=204 INFO][2017-11-29 11:48:56]get apk: c78395a325008dbaf6a67ac31960b6d3.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:49:45]analyze finish c78395a325008dbaf6a67ac31960b6d3.apk[cost 48]
+[lineNum=204 INFO][2017-11-29 11:49:47]get apk: 8fa7c2e99c3a9dc4990eac67f5a7141e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:51:08]analyze finish 8fa7c2e99c3a9dc4990eac67f5a7141e.apk[cost 83]
+[lineNum=204 INFO][2017-11-29 11:51:09]get apk: 55802816cf1c677e6841b8cb1eddb647.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:52:20]analyze finish 55802816cf1c677e6841b8cb1eddb647.apk[cost 72]
+[lineNum=204 INFO][2017-11-29 11:52:21]get apk: 3a78e3192f0552d32fb703557ccc7e25.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:53:05]analyze finish 3a78e3192f0552d32fb703557ccc7e25.apk[cost 44]
+[lineNum=204 INFO][2017-11-29 11:53:06]get apk: ab07824a6e957e118f0fe9258f43fd4c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:54:02]analyze finish ab07824a6e957e118f0fe9258f43fd4c.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 11:54:03]get apk: 838bab0bb27b3ecf62fc2cd59135ca8e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:54:46]analyze finish 838bab0bb27b3ecf62fc2cd59135ca8e.apk[cost 43]
+[lineNum=204 INFO][2017-11-29 11:54:47]get apk: 74058c332cb99946a920d85836a54e08.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:55:50]analyze finish 74058c332cb99946a920d85836a54e08.apk[cost 63]
+[lineNum=204 INFO][2017-11-29 11:55:50]get apk: 09fff930c1269acd7cc4cbb98ba0a6e2.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:56:37]analyze finish 09fff930c1269acd7cc4cbb98ba0a6e2.apk[cost 46]
+[lineNum=204 INFO][2017-11-29 11:56:37]get apk: ea6a7bfe295c3a458a126fe6a35a6d97.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:57:43]analyze finish ea6a7bfe295c3a458a126fe6a35a6d97.apk[cost 66]
+[lineNum=204 INFO][2017-11-29 11:57:43]get apk: e53a09effe20c13a96e1d3f297a1e549.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:58:28]analyze finish e53a09effe20c13a96e1d3f297a1e549.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 11:58:29]get apk: 416731180080926364abea1066fbc7b9.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 11:59:40]analyze finish 416731180080926364abea1066fbc7b9.apk[cost 71]
+[lineNum=204 INFO][2017-11-29 11:59:42]get apk: 13e495f2257ffe535ae235dc0b74e268.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:00:35]analyze finish 13e495f2257ffe535ae235dc0b74e268.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 12:00:36]get apk: 6fecadefacc34d660e0443c8e9f91d1f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:01:58]analyze finish 6fecadefacc34d660e0443c8e9f91d1f.apk[cost 82]
+[lineNum=204 INFO][2017-11-29 12:02:00]get apk: 22eb37658c09a3948c1cc984db415d97.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:03:14]analyze finish 22eb37658c09a3948c1cc984db415d97.apk[cost 76]
+[lineNum=204 INFO][2017-11-29 12:03:15]get apk: b3a5dd0c22a8241e21f551a732547b9f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:04:21]analyze finish b3a5dd0c22a8241e21f551a732547b9f.apk[cost 66]
+[lineNum=204 INFO][2017-11-29 12:04:21]get apk: 94e9e9e98727e8b0b0cbcd0b8248f968.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:05:19]analyze finish 94e9e9e98727e8b0b0cbcd0b8248f968.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 12:05:19]get apk: 3375a881fae8a958294cb9e3c98935bf.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:06:00]analyze finish 3375a881fae8a958294cb9e3c98935bf.apk[cost 40]
+[lineNum=204 INFO][2017-11-29 12:06:00]get apk: 59a8d534ae467b58c456b892a654685d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:06:49]analyze finish 59a8d534ae467b58c456b892a654685d.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 12:06:49]get apk: b1eb331fb2e644d08138a43ae50ec545.apk
+[lineNum=240 ERROR][2017-11-29 12:06:58]Failure [INSTALL_PARSE_FAILED_NO_CERTIFICATES]
+[lineNum=204 INFO][2017-11-29 12:06:58]get apk: 5d8c65d9262907316d22876bc9076541.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:07:41]analyze finish 5d8c65d9262907316d22876bc9076541.apk[cost 43]
+[lineNum=204 INFO][2017-11-29 12:07:41]get apk: 207c8eb569081f4c8514d0f4ac5c8bc1.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:08:20]analyze finish 207c8eb569081f4c8514d0f4ac5c8bc1.apk[cost 38]
+[lineNum=204 INFO][2017-11-29 12:08:21]get apk: ac3a180e48db06b8079d05aaaff9f278.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:09:20]analyze finish ac3a180e48db06b8079d05aaaff9f278.apk[cost 59]
+[lineNum=204 INFO][2017-11-29 12:09:20]get apk: 916aaebf9a44fa03d03653f12ce5e0d5.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:10:16]analyze finish 916aaebf9a44fa03d03653f12ce5e0d5.apk[cost 56]
+[lineNum=204 INFO][2017-11-29 12:10:16]get apk: 4685267ac5ede10dc09e9a34a21e5f25.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:11:04]analyze finish 4685267ac5ede10dc09e9a34a21e5f25.apk[cost 47]
+[lineNum=204 INFO][2017-11-29 12:11:04]get apk: 54fa70362b5521d719db55f5f67d8d8f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:11:50]analyze finish 54fa70362b5521d719db55f5f67d8d8f.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 12:11:51]get apk: 1e92b312ce9c024b8ecdd713d2d83345.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:12:58]analyze finish 1e92b312ce9c024b8ecdd713d2d83345.apk[cost 68]
+[lineNum=204 INFO][2017-11-29 12:12:58]get apk: a8e608681e97a389e00fa23d9e186763.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:13:49]analyze finish a8e608681e97a389e00fa23d9e186763.apk[cost 50]
+[lineNum=204 INFO][2017-11-29 12:13:49]get apk: 2323c043627540c110b5076ec3ea622c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:14:40]analyze finish 2323c043627540c110b5076ec3ea622c.apk[cost 51]
+[lineNum=204 INFO][2017-11-29 12:14:40]get apk: 0148c836f03a3da3212c990c4abcd42e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:15:26]analyze finish 0148c836f03a3da3212c990c4abcd42e.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 12:15:27]get apk: 559c980a99fb7c56f3f44b1ae16133fa.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:16:24]analyze finish 559c980a99fb7c56f3f44b1ae16133fa.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 12:16:24]get apk: 10bb10888d4587284ca879eb46cddd5b.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:17:10]analyze finish 10bb10888d4587284ca879eb46cddd5b.apk[cost 45]
+[lineNum=204 INFO][2017-11-29 12:17:10]get apk: 14d8125cf057d76c9dc2b3a3fed78411.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:17:58]analyze finish 14d8125cf057d76c9dc2b3a3fed78411.apk[cost 47]
+[lineNum=204 INFO][2017-11-29 12:17:58]get apk: 0890018ea81b400b3a515e37185cbe3a.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:19:11]analyze finish 0890018ea81b400b3a515e37185cbe3a.apk[cost 73]
+[lineNum=204 INFO][2017-11-29 12:19:11]get apk: 9eb8bdcecde40d75a8a849813776ab9f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:20:07]analyze finish 9eb8bdcecde40d75a8a849813776ab9f.apk[cost 55]
+[lineNum=204 INFO][2017-11-29 12:20:07]get apk: e319d825fe19e30728a4907b58b68caa.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:20:52]analyze finish e319d825fe19e30728a4907b58b68caa.apk[cost 44]
+[lineNum=204 INFO][2017-11-29 12:20:52]get apk: 2b303b8ac2300c2ef70dedd17d9a36d0.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:21:45]analyze finish 2b303b8ac2300c2ef70dedd17d9a36d0.apk[cost 53]
+[lineNum=204 INFO][2017-11-29 12:21:46]get apk: 9678a3d8d03bd2bbb92385040dc52535.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:22:45]analyze finish 9678a3d8d03bd2bbb92385040dc52535.apk[cost 59]
+[lineNum=204 INFO][2017-11-29 12:22:45]get apk: 6fbf7b529a832872edc5dd64b8e20d9d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:23:29]analyze finish 6fbf7b529a832872edc5dd64b8e20d9d.apk[cost 43]
+[lineNum=204 INFO][2017-11-29 12:23:29]get apk: a71ffc8080b8c27705ae543e09bae9ff.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:24:36]analyze finish a71ffc8080b8c27705ae543e09bae9ff.apk[cost 66]
+[lineNum=204 INFO][2017-11-29 12:24:36]get apk: 1fc414bc2c09b9210350c0d5ae452648.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:25:36]analyze finish 1fc414bc2c09b9210350c0d5ae452648.apk[cost 60]
+[lineNum=204 INFO][2017-11-29 12:25:37]get apk: 63b3d163ec719b9d947219c672ba8d05.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:27:05]analyze finish 63b3d163ec719b9d947219c672ba8d05.apk[cost 88]
+[lineNum=204 INFO][2017-11-29 12:27:05]get apk: 26a577c8b229b84a740fd8fb7c11d17e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:28:02]analyze finish 26a577c8b229b84a740fd8fb7c11d17e.apk[cost 57]
+[lineNum=204 INFO][2017-11-29 12:28:02]get apk: ba6a0546f21e4ff6df49a44fb84a1a74.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:28:55]analyze finish ba6a0546f21e4ff6df49a44fb84a1a74.apk[cost 52]
+[lineNum=204 INFO][2017-11-29 12:28:55]get apk: 462c4158b82c6b78053d9e2d522a6c59.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:29:44]analyze finish 462c4158b82c6b78053d9e2d522a6c59.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 12:29:45]get apk: 890db3c87ca06311dd542a5a7a5dc39a.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:30:43]analyze finish 890db3c87ca06311dd542a5a7a5dc39a.apk[cost 58]
+[lineNum=204 INFO][2017-11-29 12:30:43]get apk: 7618209d909965b5b87f9592010e013d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:31:33]analyze finish 7618209d909965b5b87f9592010e013d.apk[cost 49]
+[lineNum=204 INFO][2017-11-29 12:31:33]get apk: 9f1eee052cce0ca266ca8d339ab5c55d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:32:44]analyze finish 9f1eee052cce0ca266ca8d339ab5c55d.apk[cost 71]
+[lineNum=204 INFO][2017-11-29 12:32:45]get apk: dda2bce461d8cd1ce8a5f8404e6f3cb7.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:34:11]analyze finish dda2bce461d8cd1ce8a5f8404e6f3cb7.apk[cost 86]
+[lineNum=204 INFO][2017-11-29 12:34:11]get apk: e723b3964d8f773bdd3d0aa6352eed9f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:34:37]analyze finish e723b3964d8f773bdd3d0aa6352eed9f.apk[cost 25]
+[lineNum=204 INFO][2017-11-29 12:34:38]get apk: f34338b6c89065af02669e29abf5e0f0.apk
+[lineNum=240 ERROR][2017-11-29 12:34:45]('\tpkg: /data/local/tmp/f34338b6c89065af02669e29abf5e0f0.apk\r\n', '6725 KB/s (17180860 bytes in 2.494s)\n')
+[lineNum=204 INFO][2017-11-29 12:34:47]get apk: 6c99cce4744e77b668250f566d3705f1.apk
+[lineNum=240 ERROR][2017-11-29 12:34:50]('', '4458 KB/s (8586148 bytes in 1.880s)\n')
+[lineNum=204 INFO][2017-11-29 12:34:51]get apk: 5ae9738a9e5b31a79e366c7252be4498.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:37:30]analyze finish 5ae9738a9e5b31a79e366c7252be4498.apk[cost 159]
+[lineNum=204 INFO][2017-11-29 12:37:30]get apk: 7faf8818a3094c8cbcb9f80ce09d73b5.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-11-29 12:38:57]analyze finish 7faf8818a3094c8cbcb9f80ce09d73b5.apk[cost 86]
+[lineNum=204 INFO][2017-11-29 12:38:58]get apk: 7dd3e5559e6dd296ce3abb22fe4f9ca6.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=110 ERROR][2017-11-29 12:43:12]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 100, in runMethod
+    self.closeApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 316, in closeApk
+    self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=325 INFO]uninstall apk
+[lineNum=125 ERROR]inner error : [Errno 3] No such process
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    os.kill(self.adbProcess.pid, signal.SIGKILL)
+OSError: [Errno 3] No such process
+
+[lineNum=110 ERROR][2017-11-29 12:48:13]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 12:50:14]get apk: 45824d78f46a95a4d0644fe7d1485418.apk
+[lineNum=110 ERROR][2017-11-29 12:52:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 12:56:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 12:58:14]get apk: 7ae08104cdb35731470e447f499d8cd2.apk
+[lineNum=110 ERROR][2017-11-29 13:00:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:04:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:06:14]get apk: 100cdf7445aa6e20fee688174bb039a4.apk
+[lineNum=110 ERROR][2017-11-29 13:08:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:12:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:14:14]get apk: 750efb89ea65d9a75fd3f1b16e744a2a.apk
+[lineNum=110 ERROR][2017-11-29 13:16:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:20:14]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:22:15]get apk: 5ebad56b70dd04ce38ed7aef7c58d12c.apk
+[lineNum=110 ERROR][2017-11-29 13:24:15]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:28:15]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:30:15]get apk: 6b011032953d6f46ba0688acf16a2f8d.apk
+[lineNum=110 ERROR][2017-11-29 13:32:15]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:36:15]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:38:18]get apk: 6468773d94e1e558249567219bdcef7b.apk
+[lineNum=110 ERROR][2017-11-29 13:40:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:44:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:46:18]get apk: 9339a6ba4df29fc163dabb80fad40622.apk
+[lineNum=110 ERROR][2017-11-29 13:48:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 13:52:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 13:54:18]get apk: 43b633715d67ab1a438766c5131ad9d3.apk
+[lineNum=110 ERROR][2017-11-29 13:56:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:00:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:02:18]get apk: f02354ff6a65e10cec74687d2cf02ea1.apk
+[lineNum=110 ERROR][2017-11-29 14:04:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:08:18]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:10:19]get apk: 1ed04b701188c9f177b7ab80b965b91e.apk
+[lineNum=110 ERROR][2017-11-29 14:12:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:16:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:18:19]get apk: 2aa5d40034b534c67b0ea9f8059849ad.apk
+[lineNum=110 ERROR][2017-11-29 14:20:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:24:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:26:19]get apk: 8e775eb53bfa993cc1460c89c6ff66c2.apk
+[lineNum=110 ERROR][2017-11-29 14:28:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:32:19]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:34:20]get apk: f99c796d8b7f58f54079fc34ecd8d2d7.apk
+[lineNum=110 ERROR][2017-11-29 14:36:20]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:40:20]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:42:21]get apk: f0d845a4e33dd803a497ddede7664a1f.apk
+[lineNum=110 ERROR][2017-11-29 14:44:21]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:48:21]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:50:21]get apk: 3dceb2a13687bab7afca4ae0b6b6cecd.apk
+[lineNum=110 ERROR][2017-11-29 14:52:21]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=110 ERROR][2017-11-29 14:56:21]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=125 ERROR]inner error : timeout for run_adb_cmd
+[lineNum=126 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 120, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 409, in killApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-11-29 14:58:21]get apk: 95ebe8cecebb135ce6a76592d7875b4d.apk
+[lineNum=110 ERROR][2017-11-29 15:00:21]timeout for run_adb_cmd
+[lineNum=111 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 90, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 216, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=204 INFO][2017-12-28 22:05:37]get apk: 36f050515f28370d91b274f1374bb33a.apk
+[lineNum=204 INFO][2017-12-29 10:24:41]get apk: 0addde634463352cd86c579079df1c12.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:25:28]analyze finish 0addde634463352cd86c579079df1c12.apk[cost 46]
+[lineNum=204 INFO][2017-12-29 10:25:28]get apk: 0d9d7c37a3d060f9217ad32a0c8db965.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:26:23]analyze finish 0d9d7c37a3d060f9217ad32a0c8db965.apk[cost 54]
+[lineNum=204 INFO][2017-12-29 10:26:23]get apk: 0cfadfec2f1e6befb36fdd116ef473ba.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:28:04]analyze finish 0cfadfec2f1e6befb36fdd116ef473ba.apk[cost 100]
+[lineNum=204 INFO][2017-12-29 10:28:04]get apk: 0dabc474030261c330d4cea52926216f.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:29:59]analyze finish 0dabc474030261c330d4cea52926216f.apk[cost 115]
+[lineNum=204 INFO][2017-12-29 10:29:59]get apk: 0d1602151004f96156b405854c3e71ac.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:30:50]analyze finish 0d1602151004f96156b405854c3e71ac.apk[cost 50]
+[lineNum=204 INFO][2017-12-29 10:30:50]get apk: 0a699f051cbef85b44b207dcb54de33d.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:31:53]analyze finish 0a699f051cbef85b44b207dcb54de33d.apk[cost 63]
+[lineNum=204 INFO][2017-12-29 10:31:53]get apk: 0e3b41ed86ab003aef876f2b93a40d1e.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:33:18]analyze finish 0e3b41ed86ab003aef876f2b93a40d1e.apk[cost 84]
+[lineNum=204 INFO][2017-12-29 10:33:18]get apk: 0b0127dcfcd5095078be46a4e0f7ec2c.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:34:19]analyze finish 0b0127dcfcd5095078be46a4e0f7ec2c.apk[cost 60]
+[lineNum=204 INFO][2017-12-29 10:34:19]get apk: 0c4aa3da5ccf53332818fdd758b35e35.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:35:11]analyze finish 0c4aa3da5ccf53332818fdd758b35e35.apk[cost 52]
+[lineNum=204 INFO][2017-12-29 10:35:11]get apk: 0db6cc092fc5c356ff19d7c1d5f57805.apk
+[lineNum=244 INFO]install apk
+[lineNum=258 INFO]open apk
+[lineNum=318 INFO]close apk
+[lineNum=325 INFO]uninstall apk
+[lineNum=350 INFO][2017-12-29 10:36:02]analyze finish 0db6cc092fc5c356ff19d7c1d5f57805.apk[cost 50]
+[lineNum=206 INFO][2018-01-17 14:06:37]get apk: 0addde634463352cd86c579079df1c12.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=302 INFO]close apk
+[lineNum=309 INFO]uninstall apk
+[lineNum=334 INFO][2018-01-17 14:09:06]analyze finish 0addde634463352cd86c579079df1c12.apk[cost 148]
+[lineNum=206 INFO][2018-01-17 14:09:08]get apk: 0a699f051cbef85b44b207dcb54de33d.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=302 INFO]close apk
+[lineNum=309 INFO]uninstall apk
+[lineNum=334 INFO][2018-01-17 14:10:50]analyze finish 0a699f051cbef85b44b207dcb54de33d.apk[cost 103]
+[lineNum=206 INFO][2018-01-17 14:13:38]get apk: 0addde634463352cd86c579079df1c12.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=302 INFO]close apk
+[lineNum=309 INFO]uninstall apk
+[lineNum=334 INFO][2018-01-17 14:15:00]analyze finish 0addde634463352cd86c579079df1c12.apk[cost 82]
+[lineNum=206 INFO][2018-01-17 14:15:00]get apk: 0a699f051cbef85b44b207dcb54de33d.apk
+[lineNum=242 ERROR][2018-01-17 14:15:01]('', '')
+[lineNum=206 INFO][2018-01-17 14:15:01]get apk: 0b0127dcfcd5095078be46a4e0f7ec2c.apk
+[lineNum=206 INFO][2018-01-17 14:17:06]get apk: 2b995fc24f511a57d67bfa31d4a0eabb.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=336 INFO][2018-01-17 14:19:04]analyze finish 2b995fc24f511a57d67bfa31d4a0eabb.apk[cost 118]
+[lineNum=206 INFO][2018-01-17 14:19:04]get apk: 2c8823d33393015657cb26c4066f5104.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=336 INFO][2018-01-17 14:20:16]analyze finish 2c8823d33393015657cb26c4066f5104.apk[cost 72]
+[lineNum=206 INFO][2018-01-17 14:20:16]get apk: 2af09a1636e624fa425957fa67ede963.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=336 INFO][2018-01-17 14:22:25]analyze finish 2af09a1636e624fa425957fa67ede963.apk[cost 129]
+[lineNum=206 INFO][2018-01-17 14:22:25]get apk: 2b5b3a0b35b2c4e529f325e78718f0f1.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=336 INFO][2018-01-17 14:23:51]analyze finish 2b5b3a0b35b2c4e529f325e78718f0f1.apk[cost 85]
+[lineNum=206 INFO][2018-01-17 14:23:51]get apk: 2b5bee0da057700df71550b7730b0171.apk
+[lineNum=206 INFO][2018-01-17 14:28:16]get apk: 2b5bee0da057700df71550b7730b0171.apk
+[lineNum=242 ERROR][2018-01-17 14:29:13]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 14:29:13]get apk: 0b0127dcfcd5095078be46a4e0f7ec2c.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=337 INFO][2018-01-17 14:31:31]analyze finish 0b0127dcfcd5095078be46a4e0f7ec2c.apk[cost 138]
+[lineNum=206 INFO][2018-01-17 14:36:36]get apk: bfaeccd7b00fcc5f872bf76ad001896f.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 14:38:28]analyze finish bfaeccd7b00fcc5f872bf76ad001896f.apk[cost 112]
+[lineNum=206 INFO][2018-01-17 18:08:38]get apk: fa983dcb6dd4933634ec1a2cd3013b61.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:09:33]analyze finish fa983dcb6dd4933634ec1a2cd3013b61.apk[cost 55]
+[lineNum=206 INFO][2018-01-17 18:09:33]get apk: fa776fe065f610bf4dc83bb38b011332.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:10:27]analyze finish fa776fe065f610bf4dc83bb38b011332.apk[cost 53]
+[lineNum=206 INFO][2018-01-17 18:10:27]get apk: f7863760515dfd33f9815ff91afbb26b.apk
+[lineNum=206 INFO][2018-01-17 18:11:26]get apk: f7863760515dfd33f9815ff91afbb26b.apk
+[lineNum=242 ERROR][2018-01-17 18:11:58]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 18:11:58]get apk: f851085f7babfd5b7627446fc5380d03.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:12:40]analyze finish f851085f7babfd5b7627446fc5380d03.apk[cost 42]
+[lineNum=206 INFO][2018-01-17 18:12:40]get apk: fa329f15079b4891a942d7e05b0722f4.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:13:27]analyze finish fa329f15079b4891a942d7e05b0722f4.apk[cost 46]
+[lineNum=206 INFO][2018-01-17 18:15:12]get apk: 34c07a2c94a293b1ecede10dd71a2f69.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-17 18:17:12]get apk: 34c07a2c94a293b1ecede10dd71a2f69.apk
+[lineNum=242 ERROR][2018-01-17 18:18:24]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 18:18:24]get apk: 61f9a270fd78d49c2bbcc71dd52cc932.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:19:09]analyze finish 61f9a270fd78d49c2bbcc71dd52cc932.apk[cost 44]
+[lineNum=206 INFO][2018-01-17 18:19:09]get apk: 34f8a0d4fab4d95a92a39e9c95da02aa.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:19:55]analyze finish 34f8a0d4fab4d95a92a39e9c95da02aa.apk[cost 46]
+[lineNum=206 INFO][2018-01-17 18:19:56]get apk: 82b1377b27d38aa6b6863a46e8b659ee.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:21:35]analyze finish 82b1377b27d38aa6b6863a46e8b659ee.apk[cost 99]
+[lineNum=206 INFO][2018-01-17 18:21:37]get apk: 44be7c632fe90ee736c8002749dfa36b.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:22:32]analyze finish 44be7c632fe90ee736c8002749dfa36b.apk[cost 56]
+[lineNum=206 INFO][2018-01-17 18:22:33]get apk: 048bfb872321f7014a3c60fb3182a0d8.apk
+[lineNum=246 INFO]install apk
+[lineNum=206 INFO][2018-01-17 18:23:32]get apk: 048bfb872321f7014a3c60fb3182a0d8.apk
+[lineNum=242 ERROR][2018-01-17 18:24:38]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 18:24:39]get apk: 48b34b71d10ad232ce35c80f75c088f3.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:26:03]analyze finish 48b34b71d10ad232ce35c80f75c088f3.apk[cost 85]
+[lineNum=206 INFO][2018-01-17 18:26:21]get apk: 81ffa19f422906fedf38486146bf857f.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:27:26]analyze finish 81ffa19f422906fedf38486146bf857f.apk[cost 82]
+[lineNum=206 INFO][2018-01-17 18:27:27]get apk: 44c531a8d84ac6f32991d8dcb0bdb18f.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:28:17]analyze finish 44c531a8d84ac6f32991d8dcb0bdb18f.apk[cost 50]
+[lineNum=206 INFO][2018-01-17 18:28:17]get apk: 61a176622a50426765404ace853c5ca7.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:29:03]analyze finish 61a176622a50426765404ace853c5ca7.apk[cost 45]
+[lineNum=206 INFO][2018-01-17 18:38:23]get apk: 汽配.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:39:50]analyze finish 汽配.apk[cost 87]
+[lineNum=206 INFO][2018-01-17 18:39:50]get apk: 899go.apk
+[lineNum=206 INFO][2018-01-17 18:41:13]get apk: 899go.apk
+[lineNum=242 ERROR][2018-01-17 18:41:54]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 18:41:54]get apk: cf-绿豆秀秀动态壁纸.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:42:37]analyze finish cf-绿豆秀秀动态壁纸.apk[cost 42]
+[lineNum=206 INFO][2018-01-17 18:42:37]get apk: 7788缝纫机网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:43:21]analyze finish 7788缝纫机网.apk[cost 44]
+[lineNum=206 INFO][2018-01-17 18:43:22]get apk: 7788歌谱网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:44:05]analyze finish 7788歌谱网.apk[cost 43]
+[lineNum=206 INFO][2018-01-17 18:44:05]get apk: 快递查询.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=338 INFO][2018-01-17 18:45:33]analyze finish 快递查询.apk[cost 88]
+[lineNum=206 INFO][2018-01-17 18:45:34]get apk: 生财有道365.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-17 18:48:17]get apk: 生财有道365.apk
+[lineNum=242 ERROR][2018-01-17 18:49:04]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-17 18:49:05]get apk: 新元素.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-17 18:49:49]analyze finish 新元素.apk[cost 44]
+[lineNum=206 INFO][2018-01-17 18:49:49]get apk: 爱美丽.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-17 18:50:29]analyze finish 爱美丽.apk[cost 39]
+[lineNum=206 INFO][2018-01-17 18:50:29]get apk: CWMoney.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-17 18:51:23]analyze finish CWMoney.apk[cost 54]
+[lineNum=206 INFO][2018-01-17 18:51:23]get apk: 梦购返利网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-17 18:52:13]analyze finish 梦购返利网.apk[cost 49]
+[lineNum=206 INFO][2018-01-17 18:52:13]get apk: 果蔬.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-17 18:52:53]analyze finish 果蔬.apk[cost 40]
+[lineNum=206 INFO][2018-01-17 18:52:53]get apk: 折买买.apk
+[lineNum=206 INFO][2018-01-18 10:46:49]get apk: 折买买.apk
+[lineNum=242 ERROR][2018-01-18 10:47:28]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 10:47:28]get apk: 蒲公英魔秀桌面主题（壁纸美化软件）.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 10:48:08]analyze finish 蒲公英魔秀桌面主题（壁纸美化软件）.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 10:48:08]get apk: 3D Koi Pond Live Wallpaper.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 10:48:46]analyze finish 3D Koi Pond Live Wallpaper.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 10:48:47]get apk: 瑞士军刀服务箱.apk
+[lineNum=206 INFO][2018-01-18 11:00:47]get apk: 瑞士军刀服务箱.apk
+[lineNum=242 ERROR][2018-01-18 11:01:17]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 11:01:17]get apk: 防盗之星.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:02:51]analyze finish 防盗之星.apk[cost 93]
+[lineNum=206 INFO][2018-01-18 11:02:51]get apk: 新居网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:03:29]analyze finish 新居网.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 11:03:29]get apk: 绿康商城.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:04:07]analyze finish 绿康商城.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 11:04:07]get apk: 乐购彩彩票.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:06:36]analyze finish 乐购彩彩票.apk[cost 148]
+[lineNum=206 INFO][2018-01-18 11:06:36]get apk: 7788CD包网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:07:20]analyze finish 7788CD包网.apk[cost 43]
+[lineNum=206 INFO][2018-01-18 11:07:20]get apk: 买乐返.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:08:00]analyze finish 买乐返.apk[cost 40]
+[lineNum=206 INFO][2018-01-18 11:08:01]get apk: 天翼福彩.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:08:39]analyze finish 天翼福彩.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 11:08:39]get apk: You.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:09:41]analyze finish You.apk[cost 62]
+[lineNum=206 INFO][2018-01-18 11:09:42]get apk: 毁图不倦.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:10:19]analyze finish 毁图不倦.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 11:10:19]get apk: 中国健康网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:11:47]analyze finish 中国健康网.apk[cost 87]
+[lineNum=206 INFO][2018-01-18 11:11:47]get apk: 江苏医药平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:12:29]analyze finish 江苏医药平台.apk[cost 42]
+[lineNum=206 INFO][2018-01-18 11:12:29]get apk: 7788笔记本电脑网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:13:12]analyze finish 7788笔记本电脑网.apk[cost 43]
+[lineNum=206 INFO][2018-01-18 11:13:13]get apk: 7788独山玉网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 11:13:54]analyze finish 7788独山玉网.apk[cost 41]
+[lineNum=206 INFO][2018-01-18 11:13:54]get apk: KeepCap.apk
+[lineNum=206 INFO][2018-01-18 18:25:54]get apk: KeepCap.apk
+[lineNum=242 ERROR][2018-01-18 18:26:26]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 18:26:26]get apk: GF南海网球赛.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:27:15]analyze finish GF南海网球赛.apk[cost 49]
+[lineNum=206 INFO][2018-01-18 18:27:15]get apk: 真惠.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 18:36:04]get apk: 真惠.apk
+[lineNum=242 ERROR][2018-01-18 18:36:38]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 18:36:38]get apk: KX Camera.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:37:18]analyze finish KX Camera.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 18:37:18]get apk: 老豆.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:38:12]analyze finish 老豆.apk[cost 54]
+[lineNum=206 INFO][2018-01-18 18:38:13]get apk: 云南农业平台.apk
+[lineNum=206 INFO][2018-01-18 18:39:14]get apk: 云南农业平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:39:53]analyze finish 云南农业平台.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 18:39:53]get apk: YOO主题-残缺的心.apk
+[lineNum=206 INFO][2018-01-18 18:41:59]get apk: YOO主题-残缺的心.apk
+[lineNum=242 ERROR][2018-01-18 18:42:24]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 18:42:24]get apk: GO Locker Fishpond Theme.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:43:13]analyze finish GO Locker Fishpond Theme.apk[cost 48]
+[lineNum=206 INFO][2018-01-18 18:43:14]get apk: 中国煤炭贸易平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 18:48:22]get apk: 中国煤炭贸易平台.apk
+[lineNum=242 ERROR][2018-01-18 18:48:50]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 18:48:50]get apk: 黄历.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=206 INFO][2018-01-18 18:49:54]get apk: 黄历.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:50:33]analyze finish 黄历.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 18:50:33]get apk: YOO主题-努力赚钱养媳妇.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:51:17]analyze finish YOO主题-努力赚钱养媳妇.apk[cost 43]
+[lineNum=206 INFO][2018-01-18 18:51:17]get apk: 97f25882e586fe0ec5ba6d78c88b28fe.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:51:56]analyze finish 97f25882e586fe0ec5ba6d78c88b28fe.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 18:51:56]get apk: 易城生活.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:52:37]analyze finish 易城生活.apk[cost 40]
+[lineNum=206 INFO][2018-01-18 18:52:37]get apk: 小毛驴.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:53:18]analyze finish 小毛驴.apk[cost 41]
+[lineNum=206 INFO][2018-01-18 18:53:18]get apk: Image Manager.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:54:15]analyze finish Image Manager.apk[cost 56]
+[lineNum=206 INFO][2018-01-18 18:54:15]get apk: 魅拍相册.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:55:30]analyze finish 魅拍相册.apk[cost 74]
+[lineNum=206 INFO][2018-01-18 18:55:30]get apk: 碎花魔秀桌面主题（壁纸美化软件）.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:56:14]analyze finish 碎花魔秀桌面主题（壁纸美化软件）.apk[cost 43]
+[lineNum=206 INFO][2018-01-18 18:56:14]get apk: Theme Puggy GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:56:55]analyze finish Theme Puggy GO Launcher EX.apk[cost 41]
+[lineNum=206 INFO][2018-01-18 18:56:55]get apk: 卡通宝.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:57:48]analyze finish 卡通宝.apk[cost 52]
+[lineNum=206 INFO][2018-01-18 18:57:48]get apk: YOO主题-阳光女孩.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:58:32]analyze finish YOO主题-阳光女孩.apk[cost 44]
+[lineNum=206 INFO][2018-01-18 18:58:32]get apk: iWallet.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 18:59:18]analyze finish iWallet.apk[cost 45]
+[lineNum=206 INFO][2018-01-18 18:59:18]get apk: 7788旧水晶网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 19:12:13]get apk: 7788旧水晶网.apk
+[lineNum=242 ERROR][2018-01-18 19:12:43]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 19:12:43]get apk: 橙掌柜.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 19:36:14]get apk: 橙掌柜.apk
+[lineNum=242 ERROR][2018-01-18 19:36:56]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 19:36:56]get apk: hands up Theme GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:37:33]analyze finish hands up Theme GO Launcher EX.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 19:37:33]get apk: 随行看TV.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:38:18]analyze finish 随行看TV.apk[cost 44]
+[lineNum=206 INFO][2018-01-18 19:38:18]get apk: 7788蜜蜡网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:39:36]analyze finish 7788蜜蜡网.apk[cost 77]
+[lineNum=206 INFO][2018-01-18 19:39:36]get apk: 中国绿化门户网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=112 ERROR][2018-01-18 19:41:55]timeout for myMonkeyTest
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 100, in runMethod
+    self.myMonkeyTest()
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for myMonkeyTest
+
+[lineNum=311 INFO]uninstall apk
+[lineNum=127 ERROR]inner error : [Errno 3] No such process
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 124, in runMethod
+    os.kill(self.adbProcess.pid, signal.SIGKILL)
+OSError: [Errno 3] No such process
+
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=112 ERROR][2018-01-18 19:44:15]timeout for myMonkeyTest
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 100, in runMethod
+    self.myMonkeyTest()
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for myMonkeyTest
+
+[lineNum=311 INFO]uninstall apk
+[lineNum=127 ERROR]inner error : [Errno 3] No such process
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 124, in runMethod
+    os.kill(self.adbProcess.pid, signal.SIGKILL)
+OSError: [Errno 3] No such process
+
+[lineNum=206 INFO][2018-01-18 19:44:16]get apk: 淘宝饰品街.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:45:25]analyze finish 淘宝饰品街.apk[cost 69]
+[lineNum=206 INFO][2018-01-18 19:45:25]get apk: 7788英德石网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 19:47:51]get apk: 7788英德石网.apk
+[lineNum=242 ERROR][2018-01-18 19:48:20]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 19:48:20]get apk: 粉铺.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:50:50]analyze finish 粉铺.apk[cost 149]
+[lineNum=206 INFO][2018-01-18 19:50:50]get apk: 私募汇.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:51:54]analyze finish 私募汇.apk[cost 63]
+[lineNum=206 INFO][2018-01-18 19:51:54]get apk: 9a1ce5cb2cd502f41293194e71f7ec54.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:52:37]analyze finish 9a1ce5cb2cd502f41293194e71f7ec54.apk[cost 43]
+[lineNum=206 INFO][2018-01-18 19:52:38]get apk: 中国保健平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:54:21]analyze finish 中国保健平台.apk[cost 103]
+[lineNum=206 INFO][2018-01-18 19:54:22]get apk: 斗逗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:56:16]analyze finish 斗逗.apk[cost 114]
+[lineNum=206 INFO][2018-01-18 19:56:17]get apk: 易购潮品.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:56:56]analyze finish 易购潮品.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 19:56:56]get apk: YOO主题-芭比娃娃.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:57:33]analyze finish YOO主题-芭比娃娃.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 19:57:33]get apk: 老包头批发网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:58:13]analyze finish 老包头批发网.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 19:58:13]get apk: iFRID.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:58:51]analyze finish iFRID.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 19:58:51]get apk: 7788萨克斯网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 19:59:30]analyze finish 7788萨克斯网.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 19:59:30]get apk: Photile Pro.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:00:07]analyze finish Photile Pro.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 20:00:07]get apk: YOO主题-彼岸青春.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:00:45]analyze finish YOO主题-彼岸青春.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 20:00:46]get apk: 美图购物.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:01:34]analyze finish 美图购物.apk[cost 48]
+[lineNum=206 INFO][2018-01-18 20:01:34]get apk: 水果忍者2.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-18 20:06:39]get apk: 水果忍者2.apk
+[lineNum=242 ERROR][2018-01-18 20:07:06]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-18 20:07:06]get apk: YOO主题-大爱啊哆啦A梦.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:08:53]analyze finish YOO主题-大爱啊哆啦A梦.apk[cost 107]
+[lineNum=206 INFO][2018-01-18 20:08:53]get apk: 平安天下通.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:10:00]analyze finish 平安天下通.apk[cost 67]
+[lineNum=206 INFO][2018-01-18 20:10:00]get apk: 7788佩饰网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:11:18]analyze finish 7788佩饰网.apk[cost 77]
+[lineNum=206 INFO][2018-01-18 20:11:18]get apk: 尚迪莎.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:12:07]analyze finish 尚迪莎.apk[cost 49]
+[lineNum=206 INFO][2018-01-18 20:12:08]get apk: 速融.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:13:25]analyze finish 速融.apk[cost 77]
+[lineNum=206 INFO][2018-01-18 20:13:25]get apk: 龙猫进销存.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:14:39]analyze finish 龙猫进销存.apk[cost 74]
+[lineNum=206 INFO][2018-01-18 20:14:39]get apk: Facebook Fan.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:15:28]analyze finish Facebook Fan.apk[cost 48]
+[lineNum=206 INFO][2018-01-18 20:15:28]get apk: 7788门票网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:16:46]analyze finish 7788门票网.apk[cost 78]
+[lineNum=206 INFO][2018-01-18 20:16:46]get apk: AngelaBaby Theme GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:17:25]analyze finish AngelaBaby Theme GO Launcher EX.apk[cost 39]
+[lineNum=206 INFO][2018-01-18 20:17:25]get apk: 奥特曼大战小怪兽006-宝软3D主题.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:18:55]analyze finish 奥特曼大战小怪兽006-宝软3D主题.apk[cost 89]
+[lineNum=206 INFO][2018-01-18 20:18:55]get apk: XP Mod.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:20:05]analyze finish XP Mod.apk[cost 69]
+[lineNum=206 INFO][2018-01-18 20:20:05]get apk: 卡必友.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:21:40]analyze finish 卡必友.apk[cost 94]
+[lineNum=206 INFO][2018-01-18 20:21:41]get apk: 易鑫车贷.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:23:14]analyze finish 易鑫车贷.apk[cost 94]
+[lineNum=206 INFO][2018-01-18 20:23:14]get apk: IKA GuangZhou Metro.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:25:13]analyze finish IKA GuangZhou Metro.apk[cost 118]
+[lineNum=206 INFO][2018-01-18 20:25:13]get apk: SSG中文.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:26:04]analyze finish SSG中文.apk[cost 50]
+[lineNum=206 INFO][2018-01-18 20:26:04]get apk: 天气预报V1.0.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:26:53]analyze finish 天气预报V1.0.apk[cost 49]
+[lineNum=206 INFO][2018-01-18 20:26:53]get apk: 可折网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:27:32]analyze finish 可折网.apk[cost 38]
+[lineNum=206 INFO][2018-01-18 20:27:32]get apk: 몰랑이 Theme (for GO Launcher EX).apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:28:21]analyze finish 몰랑이 Theme (for GO Launcher EX).apk[cost 49]
+[lineNum=206 INFO][2018-01-18 20:28:22]get apk: 还呗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:29:33]analyze finish 还呗.apk[cost 71]
+[lineNum=206 INFO][2018-01-18 20:29:33]get apk: 7788松花砚网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:30:51]analyze finish 7788松花砚网.apk[cost 78]
+[lineNum=206 INFO][2018-01-18 20:30:51]get apk: 581f9a8c778c0c35ac561355ace593cd.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:31:36]analyze finish 581f9a8c778c0c35ac561355ace593cd.apk[cost 44]
+[lineNum=206 INFO][2018-01-18 20:31:36]get apk: 同城天下.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:32:59]analyze finish 同城天下.apk[cost 83]
+[lineNum=206 INFO][2018-01-18 20:33:00]get apk: 开户呗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:33:59]analyze finish 开户呗.apk[cost 59]
+[lineNum=206 INFO][2018-01-18 20:33:59]get apk: Ms精油.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:34:41]analyze finish Ms精油.apk[cost 42]
+[lineNum=206 INFO][2018-01-18 20:34:41]get apk: GO Locker UNL Theme.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:35:28]analyze finish GO Locker UNL Theme.apk[cost 47]
+[lineNum=206 INFO][2018-01-18 20:35:29]get apk: YOO主题-两小无猜.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:36:10]analyze finish YOO主题-两小无猜.apk[cost 41]
+[lineNum=206 INFO][2018-01-18 20:36:11]get apk: 广德尚商贸.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:36:48]analyze finish 广德尚商贸.apk[cost 37]
+[lineNum=206 INFO][2018-01-18 20:36:48]get apk: 熊猫锁屏.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-18 20:37:31]analyze finish 熊猫锁屏.apk[cost 42]
+[lineNum=206 INFO][2018-01-19 11:00:50]get apk: 汽配.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 11:02:09]analyze finish 汽配.apk[cost 79]
+[lineNum=206 INFO][2018-01-19 11:02:09]get apk: 899go.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 11:03:06]analyze finish 899go.apk[cost 56]
+[lineNum=206 INFO][2018-01-19 11:03:06]get apk: cf-绿豆秀秀动态壁纸.apk
+[lineNum=206 INFO][2018-01-19 14:29:24]get apk: cf-绿豆秀秀动态壁纸.apk
+[lineNum=242 ERROR][2018-01-19 14:29:52]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-19 14:29:52]get apk: 7788缝纫机网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:30:50]analyze finish 7788缝纫机网.apk[cost 57]
+[lineNum=206 INFO][2018-01-19 14:30:50]get apk: 7788歌谱网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:31:48]analyze finish 7788歌谱网.apk[cost 57]
+[lineNum=206 INFO][2018-01-19 14:31:48]get apk: 快递查询.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:32:42]analyze finish 快递查询.apk[cost 54]
+[lineNum=206 INFO][2018-01-19 14:32:42]get apk: 生财有道365.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:33:30]analyze finish 生财有道365.apk[cost 48]
+[lineNum=206 INFO][2018-01-19 14:33:30]get apk: 新元素.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:34:11]analyze finish 新元素.apk[cost 41]
+[lineNum=206 INFO][2018-01-19 14:34:12]get apk: 爱美丽.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:34:51]analyze finish 爱美丽.apk[cost 39]
+[lineNum=206 INFO][2018-01-19 14:34:51]get apk: CWMoney.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:35:46]analyze finish CWMoney.apk[cost 55]
+[lineNum=206 INFO][2018-01-19 14:35:46]get apk: 梦购返利网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:36:45]analyze finish 梦购返利网.apk[cost 58]
+[lineNum=206 INFO][2018-01-19 14:36:45]get apk: 果蔬.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:37:25]analyze finish 果蔬.apk[cost 40]
+[lineNum=206 INFO][2018-01-19 14:37:25]get apk: 折买买.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:38:16]analyze finish 折买买.apk[cost 51]
+[lineNum=206 INFO][2018-01-19 14:38:16]get apk: 蒲公英魔秀桌面主题（壁纸美化软件）.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:38:52]analyze finish 蒲公英魔秀桌面主题（壁纸美化软件）.apk[cost 35]
+[lineNum=206 INFO][2018-01-19 14:38:52]get apk: 3D Koi Pond Live Wallpaper.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:39:45]analyze finish 3D Koi Pond Live Wallpaper.apk[cost 53]
+[lineNum=206 INFO][2018-01-19 14:39:45]get apk: 瑞士军刀服务箱.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:40:48]analyze finish 瑞士军刀服务箱.apk[cost 62]
+[lineNum=206 INFO][2018-01-19 14:40:48]get apk: 防盗之星.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:41:33]analyze finish 防盗之星.apk[cost 44]
+[lineNum=206 INFO][2018-01-19 14:41:33]get apk: 新居网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-19 14:47:24]get apk: 汽配.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:48:23]analyze finish 汽配.apk[cost 59]
+[lineNum=206 INFO][2018-01-19 14:48:23]get apk: 899go.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:49:22]analyze finish 899go.apk[cost 58]
+[lineNum=206 INFO][2018-01-19 14:49:22]get apk: cf-绿豆秀秀动态壁纸.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:50:16]analyze finish cf-绿豆秀秀动态壁纸.apk[cost 53]
+[lineNum=206 INFO][2018-01-19 14:50:16]get apk: 7788缝纫机网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:51:15]analyze finish 7788缝纫机网.apk[cost 59]
+[lineNum=206 INFO][2018-01-19 14:51:15]get apk: 7788歌谱网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:52:15]analyze finish 7788歌谱网.apk[cost 60]
+[lineNum=206 INFO][2018-01-19 14:52:16]get apk: 快递查询.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:53:12]analyze finish 快递查询.apk[cost 56]
+[lineNum=206 INFO][2018-01-19 14:53:12]get apk: 生财有道365.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:54:13]analyze finish 生财有道365.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 14:54:13]get apk: 新元素.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:55:06]analyze finish 新元素.apk[cost 53]
+[lineNum=206 INFO][2018-01-19 14:55:06]get apk: 爱美丽.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:55:57]analyze finish 爱美丽.apk[cost 50]
+[lineNum=206 INFO][2018-01-19 14:55:57]get apk: CWMoney.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:57:06]analyze finish CWMoney.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 14:57:06]get apk: 梦购返利网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:58:16]analyze finish 梦购返利网.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 14:58:16]get apk: 果蔬.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:58:59]analyze finish 果蔬.apk[cost 43]
+[lineNum=206 INFO][2018-01-19 14:58:59]get apk: 折买买.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 14:59:48]analyze finish 折买买.apk[cost 49]
+[lineNum=206 INFO][2018-01-19 14:59:49]get apk: 蒲公英魔秀桌面主题（壁纸美化软件）.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:00:29]analyze finish 蒲公英魔秀桌面主题（壁纸美化软件）.apk[cost 40]
+[lineNum=206 INFO][2018-01-19 15:00:29]get apk: 3D Koi Pond Live Wallpaper.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:01:28]analyze finish 3D Koi Pond Live Wallpaper.apk[cost 58]
+[lineNum=206 INFO][2018-01-19 15:01:28]get apk: 瑞士军刀服务箱.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:03:19]analyze finish 瑞士军刀服务箱.apk[cost 110]
+[lineNum=206 INFO][2018-01-19 15:03:19]get apk: 防盗之星.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:04:21]analyze finish 防盗之星.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 15:04:21]get apk: 新居网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:05:08]analyze finish 新居网.apk[cost 47]
+[lineNum=206 INFO][2018-01-19 15:05:08]get apk: 绿康商城.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:06:18]analyze finish 绿康商城.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 15:06:19]get apk: 乐购彩彩票.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:07:17]analyze finish 乐购彩彩票.apk[cost 58]
+[lineNum=206 INFO][2018-01-19 15:07:17]get apk: 7788CD包网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:08:11]analyze finish 7788CD包网.apk[cost 53]
+[lineNum=206 INFO][2018-01-19 15:08:11]get apk: 买乐返.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:09:13]analyze finish 买乐返.apk[cost 62]
+[lineNum=206 INFO][2018-01-19 15:09:13]get apk: 天翼福彩.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:10:28]analyze finish 天翼福彩.apk[cost 74]
+[lineNum=206 INFO][2018-01-19 15:10:28]get apk: You.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:11:23]analyze finish You.apk[cost 55]
+[lineNum=206 INFO][2018-01-19 15:11:23]get apk: 毁图不倦.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:12:09]analyze finish 毁图不倦.apk[cost 46]
+[lineNum=206 INFO][2018-01-19 15:12:10]get apk: 中国健康网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:13:11]analyze finish 中国健康网.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 15:13:11]get apk: 江苏医药平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:14:21]analyze finish 江苏医药平台.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 15:14:21]get apk: 7788笔记本电脑网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:15:13]analyze finish 7788笔记本电脑网.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 15:15:13]get apk: 7788独山玉网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:16:05]analyze finish 7788独山玉网.apk[cost 51]
+[lineNum=206 INFO][2018-01-19 15:16:05]get apk: KeepCap.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:16:53]analyze finish KeepCap.apk[cost 48]
+[lineNum=206 INFO][2018-01-19 15:16:53]get apk: GF南海网球赛.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:17:42]analyze finish GF南海网球赛.apk[cost 48]
+[lineNum=206 INFO][2018-01-19 15:17:42]get apk: 真惠.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:18:31]analyze finish 真惠.apk[cost 48]
+[lineNum=206 INFO][2018-01-19 15:18:31]get apk: KX Camera.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:19:33]analyze finish KX Camera.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 15:19:33]get apk: 老豆.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:20:31]analyze finish 老豆.apk[cost 58]
+[lineNum=206 INFO][2018-01-19 15:20:32]get apk: 云南农业平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=112 ERROR][2018-01-19 15:23:04]timeout for run_adb_cmd
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 104, in runMethod
+    self.uninstallApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 309, in uninstallApk
+    self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=127 ERROR]inner error : 'NoneType' object has no attribute '__getitem__'
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 401, in killApk
+    pss = ret[0].split('\r\n')
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=112 ERROR][2018-01-19 15:25:04]timeout for run_adb_cmd
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 92, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 218, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=127 ERROR]inner error : 'NoneType' object has no attribute '__getitem__'
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 401, in killApk
+    pss = ret[0].split('\r\n')
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=206 INFO][2018-01-19 15:25:04]get apk: YOO主题-残缺的心.apk
+[lineNum=112 ERROR][2018-01-19 15:27:04]timeout for run_adb_cmd
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 92, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 218, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=127 ERROR]inner error : 'NoneType' object has no attribute '__getitem__'
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 401, in killApk
+    pss = ret[0].split('\r\n')
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=112 ERROR][2018-01-19 15:29:04]timeout for run_adb_cmd
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 92, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 218, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=127 ERROR]inner error : 'NoneType' object has no attribute '__getitem__'
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 401, in killApk
+    pss = ret[0].split('\r\n')
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=206 INFO][2018-01-19 15:29:04]get apk: GO Locker Fishpond Theme.apk
+[lineNum=112 ERROR][2018-01-19 15:31:04]timeout for run_adb_cmd
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 92, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 218, in installApk
+    ret = self.run_adb_cmd(cmd)
+  File "/home/cy/桌面/11-14PcapCatch/TimeoutException.py", line 41, in handleArgs
+    raise TimeoutException('timeout for %s' % function.__name__)
+TimeoutException: timeout for run_adb_cmd
+
+[lineNum=127 ERROR]inner error : 'NoneType' object has no attribute '__getitem__'
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 122, in runMethod
+    self.killApk(self.apk)
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 401, in killApk
+    pss = ret[0].split('\r\n')
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=112 ERROR][2018-01-19 15:32:07]'NoneType' object has no attribute '__getitem__'
+[lineNum=113 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 92, in runMethod
+    self.installApk()
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 219, in installApk
+    retLines = ret[0].splitlines()
+TypeError: 'NoneType' object has no attribute '__getitem__'
+
+[lineNum=311 INFO]uninstall apk
+[lineNum=127 ERROR]inner error : [Errno 3] No such process
+[lineNum=128 ERROR]Traceback (most recent call last):
+  File "/home/cy/桌面/11-14PcapCatch/ControlThread_real.py", line 124, in runMethod
+    os.kill(self.adbProcess.pid, signal.SIGKILL)
+OSError: [Errno 3] No such process
+
+[lineNum=206 INFO][2018-01-19 15:32:08]get apk: 中国煤炭贸易平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:32:57]analyze finish 中国煤炭贸易平台.apk[cost 48]
+[lineNum=206 INFO][2018-01-19 15:32:57]get apk: 黄历.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:33:29]analyze finish 黄历.apk[cost 31]
+[lineNum=206 INFO][2018-01-19 15:33:29]get apk: YOO主题-努力赚钱养媳妇.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:34:37]analyze finish YOO主题-努力赚钱养媳妇.apk[cost 67]
+[lineNum=206 INFO][2018-01-19 15:34:37]get apk: 97f25882e586fe0ec5ba6d78c88b28fe.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:35:07]analyze finish 97f25882e586fe0ec5ba6d78c88b28fe.apk[cost 30]
+[lineNum=206 INFO][2018-01-19 15:35:07]get apk: 易城生活.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:35:50]analyze finish 易城生活.apk[cost 42]
+[lineNum=206 INFO][2018-01-19 15:35:50]get apk: 小毛驴.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:36:45]analyze finish 小毛驴.apk[cost 54]
+[lineNum=206 INFO][2018-01-19 15:36:45]get apk: Image Manager.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:37:36]analyze finish Image Manager.apk[cost 51]
+[lineNum=206 INFO][2018-01-19 15:37:36]get apk: 魅拍相册.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:38:25]analyze finish 魅拍相册.apk[cost 49]
+[lineNum=206 INFO][2018-01-19 15:38:26]get apk: 碎花魔秀桌面主题（壁纸美化软件）.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:39:07]analyze finish 碎花魔秀桌面主题（壁纸美化软件）.apk[cost 41]
+[lineNum=206 INFO][2018-01-19 15:39:07]get apk: Theme Puggy GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:39:35]analyze finish Theme Puggy GO Launcher EX.apk[cost 28]
+[lineNum=206 INFO][2018-01-19 15:39:35]get apk: 卡通宝.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:40:26]analyze finish 卡通宝.apk[cost 50]
+[lineNum=206 INFO][2018-01-19 15:40:26]get apk: YOO主题-阳光女孩.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:41:35]analyze finish YOO主题-阳光女孩.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 15:41:36]get apk: iWallet.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:42:35]analyze finish iWallet.apk[cost 59]
+[lineNum=206 INFO][2018-01-19 15:42:35]get apk: 7788旧水晶网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:43:27]analyze finish 7788旧水晶网.apk[cost 51]
+[lineNum=206 INFO][2018-01-19 15:43:27]get apk: 橙掌柜.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:44:14]analyze finish 橙掌柜.apk[cost 46]
+[lineNum=206 INFO][2018-01-19 15:44:14]get apk: hands up Theme GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:44:42]analyze finish hands up Theme GO Launcher EX.apk[cost 28]
+[lineNum=206 INFO][2018-01-19 15:44:43]get apk: 随行看TV.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:45:28]analyze finish 随行看TV.apk[cost 45]
+[lineNum=206 INFO][2018-01-19 15:45:28]get apk: 7788蜜蜡网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:46:19]analyze finish 7788蜜蜡网.apk[cost 51]
+[lineNum=206 INFO][2018-01-19 15:46:20]get apk: 中国绿化门户网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:47:14]analyze finish 中国绿化门户网.apk[cost 54]
+[lineNum=206 INFO][2018-01-19 15:47:14]get apk: 淘宝饰品街.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:47:57]analyze finish 淘宝饰品街.apk[cost 43]
+[lineNum=206 INFO][2018-01-19 15:47:57]get apk: 7788英德石网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:48:50]analyze finish 7788英德石网.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 15:48:50]get apk: 粉铺.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:49:53]analyze finish 粉铺.apk[cost 62]
+[lineNum=206 INFO][2018-01-19 15:49:53]get apk: 私募汇.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:50:38]analyze finish 私募汇.apk[cost 45]
+[lineNum=206 INFO][2018-01-19 15:50:38]get apk: 9a1ce5cb2cd502f41293194e71f7ec54.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:51:18]analyze finish 9a1ce5cb2cd502f41293194e71f7ec54.apk[cost 39]
+[lineNum=206 INFO][2018-01-19 15:51:18]get apk: 中国保健平台.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:52:27]analyze finish 中国保健平台.apk[cost 69]
+[lineNum=206 INFO][2018-01-19 15:52:27]get apk: 斗逗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:53:24]analyze finish 斗逗.apk[cost 56]
+[lineNum=206 INFO][2018-01-19 15:53:24]get apk: 易购潮品.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:54:16]analyze finish 易购潮品.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 15:54:16]get apk: YOO主题-芭比娃娃.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:55:22]analyze finish YOO主题-芭比娃娃.apk[cost 66]
+[lineNum=206 INFO][2018-01-19 15:55:23]get apk: 老包头批发网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:56:10]analyze finish 老包头批发网.apk[cost 47]
+[lineNum=206 INFO][2018-01-19 15:56:10]get apk: iFRID.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:56:56]analyze finish iFRID.apk[cost 45]
+[lineNum=206 INFO][2018-01-19 15:56:56]get apk: 7788萨克斯网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:57:50]analyze finish 7788萨克斯网.apk[cost 54]
+[lineNum=206 INFO][2018-01-19 15:57:50]get apk: Photile Pro.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:58:20]analyze finish Photile Pro.apk[cost 29]
+[lineNum=206 INFO][2018-01-19 15:58:20]get apk: YOO主题-彼岸青春.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 15:59:26]analyze finish YOO主题-彼岸青春.apk[cost 66]
+[lineNum=206 INFO][2018-01-19 15:59:26]get apk: 美图购物.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 16:00:38]analyze finish 美图购物.apk[cost 71]
+[lineNum=206 INFO][2018-01-19 16:00:38]get apk: 水果忍者2.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 16:01:23]analyze finish 水果忍者2.apk[cost 45]
+[lineNum=206 INFO][2018-01-19 16:01:23]get apk: YOO主题-大爱啊哆啦A梦.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=304 INFO]close apk
+[lineNum=311 INFO]uninstall apk
+[lineNum=341 INFO][2018-01-19 16:02:28]analyze finish YOO主题-大爱啊哆啦A梦.apk[cost 64]
+[lineNum=206 INFO][2018-01-19 16:02:28]get apk: 平安天下通.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-19 16:30:50]get apk: 平安天下通.apk
+[lineNum=242 ERROR][2018-01-19 16:31:02]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-19 16:31:02]get apk: 7788佩饰网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:31:54]analyze finish 7788佩饰网.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 16:31:54]get apk: 尚迪莎.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:32:43]analyze finish 尚迪莎.apk[cost 49]
+[lineNum=206 INFO][2018-01-19 16:32:44]get apk: 速融.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:33:38]analyze finish 速融.apk[cost 54]
+[lineNum=206 INFO][2018-01-19 16:33:38]get apk: 龙猫进销存.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:34:35]analyze finish 龙猫进销存.apk[cost 56]
+[lineNum=206 INFO][2018-01-19 16:34:35]get apk: Facebook Fan.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:35:16]analyze finish Facebook Fan.apk[cost 41]
+[lineNum=206 INFO][2018-01-19 16:35:16]get apk: 7788门票网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:36:09]analyze finish 7788门票网.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 16:36:09]get apk: AngelaBaby Theme GO Launcher EX.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:36:42]analyze finish AngelaBaby Theme GO Launcher EX.apk[cost 32]
+[lineNum=206 INFO][2018-01-19 16:36:42]get apk: 奥特曼大战小怪兽006-宝软3D主题.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:37:26]analyze finish 奥特曼大战小怪兽006-宝软3D主题.apk[cost 44]
+[lineNum=206 INFO][2018-01-19 16:37:26]get apk: XP Mod.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:38:09]analyze finish XP Mod.apk[cost 42]
+[lineNum=206 INFO][2018-01-19 16:38:09]get apk: 卡必友.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=206 INFO][2018-01-19 16:40:47]get apk: 卡必友.apk
+[lineNum=242 ERROR][2018-01-19 16:41:26]Failure [INSTALL_FAILED_ALREADY_EXISTS]
+[lineNum=206 INFO][2018-01-19 16:41:27]get apk: 易鑫车贷.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:42:52]analyze finish 易鑫车贷.apk[cost 85]
+[lineNum=206 INFO][2018-01-19 16:42:52]get apk: IKA GuangZhou Metro.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:43:59]analyze finish IKA GuangZhou Metro.apk[cost 67]
+[lineNum=206 INFO][2018-01-19 16:43:59]get apk: SSG中文.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:45:02]analyze finish SSG中文.apk[cost 63]
+[lineNum=206 INFO][2018-01-19 16:45:03]get apk: 天气预报V1.0.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:46:04]analyze finish 天气预报V1.0.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 16:46:05]get apk: 可折网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:47:04]analyze finish 可折网.apk[cost 59]
+[lineNum=206 INFO][2018-01-19 16:47:04]get apk: 몰랑이 Theme (for GO Launcher EX).apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:47:58]analyze finish 몰랑이 Theme (for GO Launcher EX).apk[cost 53]
+[lineNum=206 INFO][2018-01-19 16:47:59]get apk: 还呗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:49:12]analyze finish 还呗.apk[cost 74]
+[lineNum=206 INFO][2018-01-19 16:49:12]get apk: 7788松花砚网.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:50:18]analyze finish 7788松花砚网.apk[cost 66]
+[lineNum=206 INFO][2018-01-19 16:50:19]get apk: 581f9a8c778c0c35ac561355ace593cd.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:51:04]analyze finish 581f9a8c778c0c35ac561355ace593cd.apk[cost 45]
+[lineNum=206 INFO][2018-01-19 16:51:04]get apk: 同城天下.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:52:23]analyze finish 同城天下.apk[cost 78]
+[lineNum=206 INFO][2018-01-19 16:52:23]get apk: 开户呗.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:53:24]analyze finish 开户呗.apk[cost 61]
+[lineNum=206 INFO][2018-01-19 16:53:24]get apk: Ms精油.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:54:36]analyze finish Ms精油.apk[cost 71]
+[lineNum=206 INFO][2018-01-19 16:54:36]get apk: GO Locker UNL Theme.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:55:29]analyze finish GO Locker UNL Theme.apk[cost 52]
+[lineNum=206 INFO][2018-01-19 16:55:29]get apk: YOO主题-两小无猜.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:56:48]analyze finish YOO主题-两小无猜.apk[cost 79]
+[lineNum=206 INFO][2018-01-19 16:56:48]get apk: 广德尚商贸.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:57:45]analyze finish 广德尚商贸.apk[cost 56]
+[lineNum=206 INFO][2018-01-19 16:57:45]get apk: 熊猫锁屏.apk
+[lineNum=246 INFO]install apk
+[lineNum=260 INFO]open apk
+[lineNum=309 INFO]close apk
+[lineNum=316 INFO]uninstall apk
+[lineNum=346 INFO][2018-01-19 16:58:30]analyze finish 熊猫锁屏.apk[cost 44]
